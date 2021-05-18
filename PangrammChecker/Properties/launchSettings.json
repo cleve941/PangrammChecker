@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChangeReturn": {
+      "commandName": "Project",
+      "commandLineArgs": "-input \"The quick brown fox jumps over the lazy dog”"
+    }
+  }
+}
